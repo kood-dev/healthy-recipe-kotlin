@@ -1,4 +1,4 @@
-# healthy-recipe
+# healthy-recipe-kotlin
 - 육아를 하며 **"오늘 반찬 뭐 해먹이지?" 하는 고민을 줄이고자 탄생** 하였습니다.
 
 ## 아이디어 & 기획
