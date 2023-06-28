@@ -1,5 +1,5 @@
 package com.godkoo.healthyrecipe.board.domain
 
-data class BoardId(
+data class BoardID(
     var id: Long
 )

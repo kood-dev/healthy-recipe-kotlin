@@ -1,7 +1,8 @@
 package com.godkoo.healthyrecipe.board.adapter.out.persistence
 
 import com.godkoo.healthyrecipe.board.domain.Board
+import com.godkoo.healthyrecipe.board.domain.repository.BoardRepository
 import org.springframework.data.jpa.repository.JpaRepository
 
-interface BoardRepository : JpaRepository<Board, Long> {
+interface JpaBoardRepository : JpaRepository<Board, Long>, BoardRepository {
 }
