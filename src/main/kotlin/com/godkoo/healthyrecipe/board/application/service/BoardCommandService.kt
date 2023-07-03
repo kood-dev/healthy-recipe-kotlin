@@ -1,7 +1,6 @@
 package com.godkoo.healthyrecipe.board.application.service
 
 import com.godkoo.healthyrecipe.board.adapter.out.persistence.JpaBoardRepository
-import com.godkoo.healthyrecipe.board.domain.Board
 import com.godkoo.healthyrecipe.board.application.model.CreateBoardCommand
 import com.godkoo.healthyrecipe.board.application.port.`in`.BoardCommandUseCase
 import com.godkoo.healthyrecipe.board.domain.BoardID

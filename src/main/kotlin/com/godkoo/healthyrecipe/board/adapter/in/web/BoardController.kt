@@ -19,3 +19,4 @@ class BoardController(
         return CommonResponse.created(useCase.save(request.convertTo()))
     }
 }
+

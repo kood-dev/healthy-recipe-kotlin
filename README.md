@@ -20,3 +20,13 @@
     └── out
         └── persistence
 ```
+
+## 모델링
+- plantuml을 사용하여 설계합니다.
+- {class-path}/erd/modeling.puml
+
+
+## 참고
+### api
+[공공 OPEN API](http://www.foodsafetykorea.go.kr/api/openApiInfo.do?menu_grp=MENU_GRP31&menu_no=661&show_cnt=10&start_idx=1&svc_no=COOKRCP01])
+[스푼 API](https://spoonacular.com/food-api)
